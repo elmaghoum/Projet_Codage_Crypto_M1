@@ -46,7 +46,7 @@ Selon ce scénario donné, nous avons listé ce qu'il faut faire sous forme d'é
 
 # Instructions d'Exécution
 
-Pour exécuter ce code Python, utilisez la commande suivante :
+Pour exécuter ce code Python, utilisez la commande suivante (en faisant bien attention à avoir la "lettre" au même lieu d'éxécution) :
 ```bash
 python3 programme.py
 ```
