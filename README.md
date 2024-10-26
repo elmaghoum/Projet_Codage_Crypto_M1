@@ -15,7 +15,7 @@ L’objectif principal de ce projet est de développer nos compétences en mati�
 - Compression/décompression par la méthode de Huffman
 
 
-Scénario: 
+# Scénario
 Une personne A trouve une lettre chiffrée, elle la déchiffre et la lie.
 Puis, elle la crypte et la compresse pour l'envoyer à une personne B, pour qu'elle puisse la lire à son tour.
 
