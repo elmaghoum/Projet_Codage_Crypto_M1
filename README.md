@@ -68,7 +68,8 @@ Au cours de ce projet, nous avons :
 - Amélioré nos compétences en communication pour présenter nos résultats de manière claire et structurée.
 
 # Auteurs
-EL MAGHOUM Fayçal & EMIR-MOUNGONDO Cristan
+- EL MAGHOUM Fayçal
+- EMIR-MOUNGONDO Cristan
 
 # Bibliographie  
 http ://v.vincent.u-bourgogne.fr/0ENS/THEO-INFO/index.html
