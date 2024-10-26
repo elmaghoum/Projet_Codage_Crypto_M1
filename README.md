@@ -19,7 +19,7 @@ L’objectif principal de ce projet est de développer nos compétences en mati�
 Une personne A trouve une lettre chiffrée, elle la déchiffre et la lie.
 Puis, elle la crypte et la compresse pour l'envoyer à une personne B, pour qu'elle puisse la lire à son tour.
 
-Selon ce scénario donné, nous avons listé ce qu'il faut faire sous forme d'étape pour chaque personne (A et B):
+Selon ce scénario donné, nous avons listé ce qu'il faut faire sous forme d'étape pour chaque personne (A et B).
 
 ## Étapes Réalisées par la personne A
 
