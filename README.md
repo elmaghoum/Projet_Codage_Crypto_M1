@@ -44,6 +44,13 @@ Selon ce scénario donné, nous avons listé ce qu'il faut faire sous forme d'é
 - **`projet_23_24_lettre.txt`** : La lettre de départ trouvée par la personne A.
 - **`programme.py`** : Le script principal qui exécute l'intégralité du scénario, produisant un fichier `.txt` en sortie pour chaque étape du processus.
 
+# Instructions d'Exécution
+
+Pour exécuter ce code Python, utilisez la commande suivante :
+
+python3 programme.py
+
+
 ## Détails Additionnels
 
 Pour plus de détails sur chaque étape et méthode de codage/cryptographie utilisée, vous pouvez consulter le dossier **Test unitaire**. Ce dossier contient des scripts individuels pour tester chaque méthode séparément.
