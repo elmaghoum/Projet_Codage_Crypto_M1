@@ -1,4 +1,4 @@
-# Projet de Codage et Cryptographie Master 1
+# Projet de Codage et Cryptographie Master 1 - UB - 2023/2024
 
 # Introduction
 La cryptographie et le codage sont des domaines cruciaux dans la sécurisation des données et des communications. Ils permettent de garantir la confidentialité, l’intégrité et l’authenticité desinformations échangées, notamment dans un contexte où les menaces informatiques sont de plus en plus nombreuses et sophistiquées.
