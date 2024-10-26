@@ -1,12 +1,19 @@
 # Projet de Codage et Cryptographie Master 1
 
 # Contexte 
-La cryptographie et le codage sont des domaines cruciaux dans la sécurisation des données etdes communications. Ils permettent de garantir la confidentialité, l’intégrité et l’authenticité desinformations échangées, notamment dans un contexte où les menaces informatiques sont de plus en plus nombreuses et sophistiquées.
+La cryptographie et le codage sont des domaines cruciaux dans la sécurisation des données et des communications. Ils permettent de garantir la confidentialité, l’intégrité et l’authenticité desinformations échangées, notamment dans un contexte où les menaces informatiques sont de plus en plus nombreuses et sophistiquées.
 
 Ce projet, réalisé en binôme, consiste à effectuer une série de manipulations sur une lettre codée et chiffrée, en suivant les étapes décrites dans un scénario.
+De plus, il nous permet de travailler en équipe, de renforcer notre capacité à résoudre des problèmes complexes et à communiquer nos résultats de manière claire et précise.
 
-L’objectif principal de ce projet est de développer nos compétences en matière de codage, décodage, chiffrement et déchiffrement, en utilisant différentes techniques et algorithmes très connus dans le monde du codage et de la cryptographie. 
-De plus, ce projet nous permet de travailler en équipe, de renforcer notre capacité à résoudre des problèmes complexes et à communiquer nos résultats de manière claire et précise.
+
+L’objectif principal de ce projet est de développer nos compétences en matière de codage, décodage, chiffrement et déchiffrement, en utilisant différentes techniques et algorithmes très connus dans le monde du codage et de la cryptographie comme : 
+- Le code de Hamming
+- Décodage du texte en ASCII
+- Chiffre de Vigenère
+- Chiffre de Vernam
+- Compression/décompression par la méthode de Huffman
+
 
 Scénario: 
 Une personne A trouve une lettre chiffrée, il la dechiffre et la lit.
@@ -34,6 +41,8 @@ Selon ce scenario donnée, nous avons lister ce qu'il faut réaliser pour ce pro
 
 # Conclusion 
 
+# Auteurs
+EL MAGHOUM Fayçal & EMIR-MOUNGONDO Cristan
 
 # Bibliographie  
 http ://v.vincent.u-bourgogne.fr/0ENS/THEO-INFO/index.html
