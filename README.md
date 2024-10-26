@@ -1,8 +1,10 @@
 # Projet de Codage et Cryptographie Master 1
 
-# Contexte 
+# Introduction
 La cryptographie et le codage sont des domaines cruciaux dans la sécurisation des données et des communications. Ils permettent de garantir la confidentialité, l’intégrité et l’authenticité desinformations échangées, notamment dans un contexte où les menaces informatiques sont de plus en plus nombreuses et sophistiquées.
 
+
+# Contexte 
 Ce projet, réalisé en binôme, consiste à effectuer une série de manipulations sur une lettre codée et chiffrée, en suivant les étapes décrites dans un scénario.
 De plus, il nous permet de travailler en équipe, de renforcer notre capacité à résoudre des problèmes complexes et à communiquer nos résultats de manière claire et précise.
 
