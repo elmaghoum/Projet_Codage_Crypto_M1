@@ -16,11 +16,10 @@ L’objectif principal de ce projet est de développer nos compétences en mati�
 
 
 Scénario: 
-Une personne A trouve une lettre chiffrée, il la dechiffre et la lis.
-Puis il là crypte et la compresse pour l'envoyer à une personne B pour qui puisse la lire à son tour.
+Une personne A trouve une lettre chiffrée, elle la déchiffre et la lie.
+Puis, elle la crypte et la compresse pour l'envoyer à une personne B, pour qu'elle puisse la lire à son tour.
 
-Selon ce scenario donnée, nous avons listé ce qu'il faut faire sous forme d'étape pour chaque personne (A et B):
-
+Selon ce scénario donné, nous avons listé ce qu'il faut faire sous forme d'étape pour chaque personne (A et B):
 
 ## Étapes Réalisées par la personne A
 
@@ -50,12 +49,16 @@ Selon ce scenario donnée, nous avons listé ce qu'il faut faire sous forme d'é
 Pour plus de détails sur chaque étape et méthode de codage/cryptographie utilisée, vous pouvez consulter le dossier **Test unitaire**. Ce dossier contient des scripts individuels pour tester chaque méthode séparément.
 
 
+# Bilan du Projet de Codage et Cryptographie
 
+Ce projet nous a permis d'explorer et de mettre en œuvre diverses techniques d’encodage, de décodage, de compression, de décompression, ainsi que de chiffrement et de déchiffrement. Nous avons appris à implémenter ces méthodes de manière efficace et à les adapter spécifiquement au cas étudié (traitement d'une lettre).
 
-# Conclusion 
+Au cours de ce projet, nous avons :
 
-De plus, il nous permet de travailler en équipe, de renforcer notre capacité à résoudre des problèmes complexes et à communiquer nos résultats de manière claire et précise.
-
+- Approfondi nos connaissances en cryptographie et en codage.
+- Développé des bonnes pratiques de programmation et en terme de securité.
+- Renforcé notre capacité à travailler en équipe et à résoudre des problèmes complexes.
+- Amélioré nos compétences en communication pour présenter nos résultats de manière claire et structurée.
 
 # Auteurs
 EL MAGHOUM Fayçal & EMIR-MOUNGONDO Cristan
