@@ -6,8 +6,6 @@ La cryptographie et le codage sont des domaines cruciaux dans la sécurisation d
 
 # Contexte 
 Ce projet, réalisé en binôme, consiste à effectuer une série de manipulations sur une lettre codée et chiffrée, en suivant les étapes décrites dans un scénario.
-De plus, il nous permet de travailler en équipe, de renforcer notre capacité à résoudre des problèmes complexes et à communiquer nos résultats de manière claire et précise.
-
 
 L’objectif principal de ce projet est de développer nos compétences en matière de codage, décodage, chiffrement et déchiffrement, en utilisant différentes techniques et algorithmes très connus dans le monde du codage et de la cryptographie comme : 
 - Le code de Hamming
@@ -18,10 +16,10 @@ L’objectif principal de ce projet est de développer nos compétences en mati�
 
 
 Scénario: 
-Une personne A trouve une lettre chiffrée, il la dechiffre et la lit.
-Puis il la crypte et la compresse pour l'envoyer à une personne B pour qui puisse la lire à son tour.
+Une personne A trouve une lettre chiffrée, il la dechiffre et la lis.
+Puis il là crypte et la compresse pour l'envoyer à une personne B pour qui puisse la lire à son tour.
 
-Selon ce scenario donnée, nous avons lister ce qu'il faut réaliser pour ce projet sous forme d'étape pour chaque personne (A et B):
+Selon ce scenario donnée, nous avons listé ce qu'il faut faire sous forme d'étape pour chaque personne (A et B):
 
 
 ## Étapes Réalisées par la personne A
@@ -41,7 +39,23 @@ Selon ce scenario donnée, nous avons lister ce qu'il faut réaliser pour ce pro
 2. **Déchiffrement en utilisant le masque**
 3. **Lecture de la lettre**
 
+
+## Contenu des Fichiers et Dossiers
+
+- **`projet_23_24_lettre.txt`** : La lettre de départ trouvée par la personne A.
+- **`programme.py`** : Le script principal qui exécute l'intégralité du scénario, produisant un fichier `.txt` en sortie pour chaque étape du processus.
+
+## Détails Additionnels
+
+Pour plus de détails sur chaque étape et méthode de codage/cryptographie utilisée, vous pouvez consulter le dossier **Test unitaire**. Ce dossier contient des scripts individuels pour tester chaque méthode séparément.
+
+
+
+
 # Conclusion 
+
+De plus, il nous permet de travailler en équipe, de renforcer notre capacité à résoudre des problèmes complexes et à communiquer nos résultats de manière claire et précise.
+
 
 # Auteurs
 EL MAGHOUM Fayçal & EMIR-MOUNGONDO Cristan
